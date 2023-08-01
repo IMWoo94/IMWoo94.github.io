@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Example post
+title: Introduce.
 cover: cover.jpg
 date:   2013-12-09 12:00:00
 categories: posts
@@ -10,6 +10,58 @@ categories: posts
 
 Flex is a minimalist, responsive theme based on the website, [The Development](http://thedevelopment.co).
 
-## Open Sourced on GitHub
+## Work Experience.
 
-Flex is open sourced on GitHub and is licensed under the [MIT License](http://opensource.org/licenses/MIT). Feel free to contribute to it anytime!
+## [KCC정보통신](https://main.kcc.co.kr/html/main.php)
+
+*연 매출 1000억의  50년 전통 중견 SI 기업*
+
+**Web Developer**
+
+- 웹 개발자
+
+**기계설비건설공제조합 정보 시스템 고도화 구축 사업**
+
+2022.08-2023.04
+
+- 기계설비건설공제조합 정보 시스템 공통, 보증 파트 구현
+    - 공통업무 (메인화면, 업무알림, 개인업무, 기일업무, 공지사항 등) 구현
+    - SMS/FILE 시스템(솔루션 연계), 파일이관, 메일 전송(OUTLOOK SMTP) 구현
+    - 보증업무 (입찰정보등록, 채권자등록, 보증서별조회, 전자결재 등) 구현
+    - 보증서 연계 송수신 구현
+- 고도화 DB META 화면 구현
+    - 고도화 시 DB 명칭 변경 작업 발생으로 DBA와 협업하여 META 및 테이블 신청 화면 구현
+    - Jenkins를 사용하여 META 프로젝트 빌드 및 배포
+
+**한국산업기술평가관리원 대나무 숲 2.0 구축 사업**
+
+2022.06-2022.07
+
+- 한국산업기술평가관리원 대나무 숲 2.0 게시판 구축
+    - 웹 페이지( JSP ) 대나무숲 게시판 개발 ( 익명 게시글 및 댓글 )
+    - 신고(조건에 따른 게시판 비활성화) 및 찬성/반대 투표 기능 구현
+    - 자동실행 스케줄러 등록하여 특정 조건에 따른 안내 메일 전송 처리
+
+**기술정보진흥원 정보 시스템 통합 유지 보수**
+
+2020.01-2022.05
+
+- 기술정보진흥원 정보 시스템(SMTECH) 사전 업무 유지 보수
+    - 기정원 시스템 과제 신청 업무, 협약 업무, 평가 업무 시스템 유지 보수
+    - 기정원 시스템 RCMS 실시간 조회 API 비즈니스 로직 반영
+- RCMS(실시간통합연구비관리시스템) 연계 담당
+    - RCMS 개선, 신규 요청 기능 구현
+    - RCMS 과제/사업비/참여연구원 연계
+    - 연구원 및 사용자 응대
+- NTIS(국가과학기술지식정보서비스) 연계 담당
+    - NTIS 과제 및 년도별 과제 사업비/평가 전송 연계
+    - 과학기술인번호 API 조회
+- 자료 출력
+    - 국회 제출 및 정부 제출 자료
+    - 과제 관련 통계성 자료
+
+**국방군수통합정보체계 구축 사업**
+
+2018.06-2019.12
+
+- 국방군수통합정보체계 목록 규격, 공통 지원 3 파트
